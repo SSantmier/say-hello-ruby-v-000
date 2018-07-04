@@ -1,1 +1,1 @@
-def gretting
+def say_hello(name)
